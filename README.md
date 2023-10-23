@@ -23,3 +23,5 @@ $ vercel
 
 
 ## Languages and Tools 
+
+1. **Languages** 🗣️
