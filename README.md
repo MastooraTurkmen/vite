@@ -35,6 +35,7 @@ $ vercel
     + [CSS3](https://github.com/topics/css3)
     + [JavaScript](https://github.com/topics/javascript)
     + [Vue.js](https://github.com/topics/vue)
+    + [Vue3](https://github.com/topics/vue3)
     + [Vite](https://github.com/topics/vite)
 
 2. **Tools** 🔧
