@@ -46,6 +46,6 @@ $ vercel
     + [Vercel-App](https://github.com/topics/vercel)
 
                 
-## Author 
+## Author 👩‍💻
 **Mastoora Turkmen**  
 [LinkedIn](https://www.linkedin.com/in/mastoora-turkmen/) 
