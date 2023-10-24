@@ -34,4 +34,5 @@ $ vercel
     + [Vite](https://github.com/topics/vite)
 
 2. **Tools** 🔧
-                   
+    + [Chrome](https://github.com/topics/chrome)
+                
