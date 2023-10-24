@@ -22,7 +22,7 @@ $ vercel
 
 ## Screenshots
 
-![Vue-image](image.png)
+![Vue-image](./src/assets/image.png)
 
 
 
