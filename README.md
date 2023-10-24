@@ -22,7 +22,7 @@ $ vercel
 
 ## Screenshots
 
-![Alt text](image.png)
+![Vue-image](image.png)
 
 
 
